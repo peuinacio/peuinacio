@@ -5,7 +5,7 @@
 
 ### Contact
 
-[![[LinkedIn](http://linkedin.com/in/pedro-inacio-lacerda-8744532b9)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![[[LinkedIn](http://linkedin.com/in/pedro-inacio-lacerda-8744532b9)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 # Tech Stack
 
