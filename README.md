@@ -1,7 +1,7 @@
 # Pedro Inácio de Carvalho Pereira Lacerda
 
 ## Physicist | Data Scientist |
-
+Master's student in Physics at Universidade Federal de Minas Gerais (UFMG). Data scientist capable of transforming complex data into clear insights.
 
 ### Contact
 
